@@ -1,0 +1,2 @@
+# crimsonbay
+Static site: crimsonbay
